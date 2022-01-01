@@ -382,7 +382,7 @@ button.ui-button::-moz-focus-inner {
 .ui-priority-secondary,
 .ui-widget-content .ui-priority-secondary,
 .ui-widget-header .ui-priority-secondary {
-	opacity: .7;
+	opacity: .9;
 	filter:Alpha(Opacity=70); /* support: IE8 */
 	font-weight: normal;
 }

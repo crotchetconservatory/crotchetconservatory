@@ -6,11 +6,11 @@ body {
   font-size: 1.1rem; }
 
 ::-moz-selection {
-  background: #000;
+  background: #212529;
   color: #fff; }
 
 ::selection {
-  background: #000;
+  background: #212529;
   color: #fff; }
 
 a {
@@ -28,10 +28,10 @@ h1, h2, h3, h4, h5,
   border-width: 2px; }
 
 .text-black {
-  color: #000 !important; }
+  color: #212529 !important; }
 
 .bg-black {
-  background: #000 !important; }
+  background: #212529 !important; }
 
 .color-black-opacity-5 {
   color: rgba(0, 0, 0, 0.5); }
@@ -74,24 +74,24 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
   .btn.btn-black {
     border-width: 2px;
-    border-color: #000;
+    border-color: #212529;
     background: #000;
     color: #fff; }
     .btn.btn-black:hover {
-      color: #000;
+      color: #212529;
       background-color: transparent; }
     .btn.btn-black.btn-outline-black {
-      color: #000;
+      color: #212529;
       background-color: transparent; }
       .btn.btn-black.btn-outline-black:hover {
-        border-color: #000;
-        background: #000;
+        border-color: #212529;
+        background: #212529;
         color: #fff; }
   .btn.btn-white {
     border-width: 2px;
     border-color: #fff;
     background: #fff;
-    color: #000; }
+    color: #212529; }
     .btn.btn-white:hover {
       color: #fff;
       background-color: transparent; }
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5,
       .btn.btn-white.btn-outline-white:hover {
         border-color: #fff;
         background: #fff;
-        color: #000; }
+        color: #212529; }
   .btn.btn-pill {
     border-radius: 30px; }
 
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5,
   line-height: 1 !important; }
 
 .bg-black {
-  background: #000; }
+  background: #212529; }
 
 .form-control {
   height: 48px;
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5,
   .site-footer p {
     color: #737373; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
-    color: #000; }
+    color: #212529; }
   .site-footer a {
     color: #999999; }
     .site-footer a:hover {
@@ -160,13 +160,13 @@ h1, h2, h3, h4, h5,
     margin-bottom: 10px; }
   .site-footer .footer-heading {
     font-size: 16px;
-    color: #000;
+    color: #212529;
     text-transform: uppercase;
     font-weight: 900; }
 
 .bg-text-line {
   display: inline;
-  background: #000;
+  background: #212529;
   -webkit-box-shadow: 20px 0 0 #000, -20px 0 0 #000;
   box-shadow: 20px 0 0 #000, -20px 0 0 #000; }
 
@@ -426,7 +426,7 @@ h1, h2, h3, h4, h5,
           visibility: visible;
           opacity: 1; }
     .site-navbar .site-navigation .site-menu.site-menu-dark > li > a {
-      color: #000; }
+      color: #212529; }
 
 .site-mobile-menu {
   width: 300px;
@@ -596,12 +596,12 @@ h1, h2, h3, h4, h5,
     box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.2);
     background: #fff; }
     .sticky-wrapper.is-sticky .site-navbar .site-logo a {
-      color: #000; }
+      color: #212529; }
     .sticky-wrapper.is-sticky .site-navbar .site-menu > li {
       display: inline-block; }
       .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a {
         padding: 5px 20px;
-        color: #000;
+        color: #212529;
         display: inline-block;
         text-decoration: none !important; }
         .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover {
@@ -654,7 +654,7 @@ h1, h2, h3, h4, h5,
     height: 100%;
     width: 100%;
     background: #343a40;
-    opacity: .9;
+    opacity: .7;
     border-bottom-right-radius: 0px; }
     @media (max-width: 991.98px) {
       .slide-1:before {
@@ -718,7 +718,7 @@ h1, h2, h3, h4, h5,
 
 .section-title {
   font-size: 3rem;
-  color: #000;
+  color: #343a40;
   margin-bottom: 1.8rem;
   font-weight: 900; }
   @media (max-width: 991.98px) {
@@ -737,7 +737,7 @@ h1, h2, h3, h4, h5,
   font-size: 3.5rem;
   display: block;
   font-weight: 700;
-  color: #000;
+  color: #343a40;
   margin-bottom: 1rem; }
 
 .counter .counter-text span {
@@ -876,7 +876,7 @@ h1, h2, h3, h4, h5,
     font-size: .9rem;
     letter-spacing: .1rem;
     text-transform: uppercase;
-    color: #000;
+    color: #343a40;
     margin-bottom: 1.5rem;
     font-weight: 900; }
   .footer-section .footer-links li {
@@ -908,7 +908,7 @@ h1, h2, h3, h4, h5,
     font-weight: 900; }
   .process h3, .service h3 {
     font-size: 1.5rem;
-    color: #000;
+    color: #343a40;
     font-weight: 700;
     margin-bottom: 1.5rem; }
 
@@ -1036,7 +1036,7 @@ h1, h2, h3, h4, h5,
       margin-right: .5rem; }
   .course h3 {
     font-size: 1.15rem;
-    color: #000; }
+    color: #343a40; }
   .course .stats {
     font-size: .9rem; }
   .course:hover {
@@ -1118,9 +1118,9 @@ h1, h2, h3, h4, h5,
       .comment-list li .comment-body .reply {
         padding: 5px 10px;
         background: #e6e6e6;
-        color: #000;
+        color: #343a40;
         text-transform: uppercase;
         font-size: 14px; }
         .comment-list li .comment-body .reply:hover {
-          color: #000;
+          color: #343a40;
           background: #e3e3e3; }

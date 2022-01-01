@@ -4377,13 +4377,13 @@ input[type="button"].btn-block {
   font-size: 1.5rem;
   font-weight: 700;
   line-height: 1;
-  color: #000;
+  color: #212529;
   text-shadow: 0 1px 0 #fff;
   opacity: .5; }
   .close:not(:disabled):not(.disabled) {
     cursor: pointer; }
     .close:not(:disabled):not(.disabled):hover, .close:not(:disabled):not(.disabled):focus {
-      color: #000;
+      color: #212529;
       text-decoration: none;
       opacity: .75; }
 
@@ -4471,7 +4471,7 @@ button.close {
   bottom: 0;
   left: 0;
   z-index: 1040;
-  background-color: #000; }
+  background-color: #212529; }
   .modal-backdrop.fade {
     opacity: 0; }
   .modal-backdrop.show {
@@ -4587,7 +4587,7 @@ button.close {
     .bs-tooltip-top .arrow::before, .bs-tooltip-auto[x-placement^="top"] .arrow::before {
       top: 0;
       border-width: 0.4rem 0.4rem 0;
-      border-top-color: #000; }
+      border-top-color: #212529; }
 
 .bs-tooltip-right, .bs-tooltip-auto[x-placement^="right"] {
   padding: 0 0.4rem; }
@@ -4598,7 +4598,7 @@ button.close {
     .bs-tooltip-right .arrow::before, .bs-tooltip-auto[x-placement^="right"] .arrow::before {
       right: 0;
       border-width: 0.4rem 0.4rem 0.4rem 0;
-      border-right-color: #000; }
+      border-right-color: #212529; }
 
 .bs-tooltip-bottom, .bs-tooltip-auto[x-placement^="bottom"] {
   padding: 0.4rem 0; }
@@ -4607,7 +4607,7 @@ button.close {
     .bs-tooltip-bottom .arrow::before, .bs-tooltip-auto[x-placement^="bottom"] .arrow::before {
       bottom: 0;
       border-width: 0 0.4rem 0.4rem;
-      border-bottom-color: #000; }
+      border-bottom-color: #212529; }
 
 .bs-tooltip-left, .bs-tooltip-auto[x-placement^="left"] {
   padding: 0 0.4rem; }
@@ -4618,14 +4618,14 @@ button.close {
     .bs-tooltip-left .arrow::before, .bs-tooltip-auto[x-placement^="left"] .arrow::before {
       left: 0;
       border-width: 0.4rem 0 0.4rem 0.4rem;
-      border-left-color: #000; }
+      border-left-color: #212529; }
 
 .tooltip-inner {
   max-width: 200px;
   padding: 0.25rem 0.5rem;
   color: #fff;
   text-align: center;
-  background-color: #000;
+  background-color: #212529;
   border-radius: 0.25rem; }
 
 .popover {
